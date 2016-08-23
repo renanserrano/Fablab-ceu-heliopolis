@@ -1,0 +1,7 @@
+Baixe os 2 arquivos.
+Abra o untitled.html no editor de texto.
+Após o <script type="text/processing" data-processing-target="processing-canvas">
+substitua o código do processing pelo de outro. *alguns n funcionam corretamente pois tem redundancias.
+termine o código antes de:
+</script>
+<canvas id="processing-canvas"> </canvas>
