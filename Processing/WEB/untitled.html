@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello Web - Processing.js Test</title>
+</head>
+<body>
+<h1>Exploring the screen</h1>
+<p>This is my first Processing sketch, made with support of Yuri Alexsander. I placed this file on the web to help children's discover the screen throught trackpads and old-school mouses.</p>
+<script src="processing.min.js"></script>
+<script type="text/processing" data-processing-target="processing-canvas">
+void setup(){
+  size (1440,900);
+  background(100);
+}
+
+void draw() {
+  ellipse (mouseX, mouseY, 50, 50);
+}
+
+void mousePressed(){
+  background(100);
+}
+</script>
+<canvas id="processing-canvas"> </canvas>
+
+</body>
+</html>
+
