@@ -1,0 +1,10 @@
+O óculos foi inspirado no minecraft, pixel e 8-bits, referências que fazem parte do universo da maioria das 500 crianças e jovens que irão visitar os 12 fablabs no dia 1 de abril de 2017.
+Os visitante irão cortar seus óculos no CNC, laser, e, apendender fazendo: soldar placa pcb, circuito, led, processador e porta usb, além de programar o comportamento dos leds.
+
+A maioria dos óculos escondem a sobrancelha dos usuários e cria uma máscara que impossibilita de acessarmos seus sentimentos.
+O óculos tem a função de exteriorizar o seu mood(sentimento).
+
+Existem 3 informações nos leds RGB:
+Normal, Triste e Bravo - representados respectivamente pelas cores: verde, amarelo e vermelho
+
+A porta USB serve para ligar os leds e também transferir a informação através da IDE do arduino, que pode ser baixada na playstore ou na appstore.
